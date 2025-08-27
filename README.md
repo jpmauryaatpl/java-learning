@@ -1,2 +1,2 @@
 # java-learning
-My Java learning journey
+My Python learning journey
