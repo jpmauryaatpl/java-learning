@@ -1,2 +1,2 @@
-# java-learning
+# python-learning
 My Python learning journey
